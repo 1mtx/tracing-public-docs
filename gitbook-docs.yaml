@@ -1,0 +1,13 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+
+site:
+  title: VMatrix Integrity
+  structure:
+    - type: space
+      key: space-sdk-docs
+      title: VMatrix Integrity
+      path: docs
+      default: true
+      content:
+        directory: ./docs
+        language: en
