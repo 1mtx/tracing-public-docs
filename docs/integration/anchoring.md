@@ -178,5 +178,5 @@ Errors are JSON: `{ "error": "<CODE>" }`, sometimes with `field`, `index` or
 
 The SDKs hash, check and send requests for you:
 
-- .NET: [tracing-sdk-dotnet](https://github.com/OneMatrixL1/tracing-sdk-dotnet)
+- .NET: [tracing-sdk-dotnet](https://github.com/1mtx/tracing-sdk-dotnet)
 - PHP: [tracing-sdk-php](https://github.com/OneMatrixL1/tracing-sdk-php)
